@@ -1,7 +1,15 @@
-body {
-  background-color: black;
+h1 {
+  color: #666161;
 }
 
 p {
   color: #666161;
+}
+
+#email p {
+  font-size: 130%;
+}
+
+#email a {
+  font-size: 130%;
 }
